@@ -1,5 +1,5 @@
 # RAREMETAL
-RAREMETAL was developed during my PhD study and research in University of Michigan at Ann Arbor (2010-2015). It was first released and published in <em>Bioinformatics</em> in 2014.
+RAREMETAL was developed during my PhD study and research in University of Michigan at Ann Arbor (2010-2015). It was first released in 2013 and published in <em>Bioinformatics</em> in 2014.
 
 This RAREMETAL is a combined package of RAREMETAL, a single-variant and gene-level meta analysis tool, and RAREMETALWORKER, a computational tool to analyze individual samples and generate summary statistics using linear mixed model to correct population stratification, hidden relatedness, family relatedness coded by pedigree, and data quality issues.
 
