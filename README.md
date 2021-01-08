@@ -18,4 +18,4 @@ https://github.com/statgen/raremetal
 - The Raremetal2 with improvements in analyzing binary traits:
 https://github.com/statgen/Raremetal2
 
-RAREMETAL AND RAREMETALWORKER were developed and built to be compatible to Linux (testing on Red Hat, Ubuntu, Debian, CentOS systems), Mac OS, and PCs with Windows operating systems.   
+RAREMETAL AND RAREMETALWORKER were developed and built to be compatible to Linux (tested on Red Hat, Ubuntu, Debian, CentOS systems), Mac OS, and PCs with Windows operating systems.   
